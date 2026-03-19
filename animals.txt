@@ -3,3 +3,4 @@ tiger
 leopard
 turtle
 GATOPERROO
+leopard amarillo    
