@@ -1,5 +1,4 @@
-lion RED
-tiger
-leopard
+lion blue
+tiger brown
+leopard orange
 turtle
-GATOPERROO
