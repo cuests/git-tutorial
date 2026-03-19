@@ -1,7 +1,8 @@
-lion RED
-tiger
-leopard
+lion blue raw
+tiger brown
+leopard orange
 turtle
+GUAU
 GATOPERROO
 leopard amarillo    
 Leopardo verde
