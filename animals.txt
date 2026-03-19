@@ -5,3 +5,7 @@ turtle
 GUAU
 GATOPERROO
 leopard amarillo    
+Leopardo verde
+
+//sonido animal
+GUAU GUAU
